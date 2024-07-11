@@ -1,0 +1,49 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+
+.card-title {
+  margin-bottom: 0.5rem;
+}
+
+.card-text {
+  margin-bottom: 0;
+}
+
+.table {
+  width: 100%;
+  margin-bottom: 1rem;
+  color: #212529;
+}
+
+.table th,
+.table td {
+  padding: 0.75rem;
+  vertical-align: top;
+  border-top: 1px solid #dee2e6;
+}
+
+.table .text-center {
+  text-align: center;
+}
+
+.modal-body img {
+  max-width: 100%;
+  height: auto;
+}
+
+.modal-title {
+  font-size: 1.5rem;
+}
+
+.clock {
+  color: white;
+}
+.date {
+color: white;
+text-align: left;
+}
