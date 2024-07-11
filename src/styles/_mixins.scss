@@ -1,0 +1,10 @@
+@mixin navbar-style() {
+    background-color: #f8f9fa;
+    .navbar-brand {
+      color: $text-color;
+    }
+    .nav-link {
+      color: $text-color;
+    }
+  }
+  
